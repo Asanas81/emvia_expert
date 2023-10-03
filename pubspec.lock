@@ -33,6 +33,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+  cloud_kit:
+    dependency: "direct main"
+    description:
+      name: cloud_kit
+      sha256: "05786cd41cfee2e82246801b3cd2bde94894ae6b1326159c2c300ad8c570a609"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.0"
   collection:
     dependency: transitive
     description:

@@ -14,7 +14,6 @@ class _LogInScreenState extends State<LogInScreen> {
   Widget build(BuildContext context) {
     ScreenUtil.init(context);
     return Column(
-      spa,
       children: [
         Container(),
         Container(
